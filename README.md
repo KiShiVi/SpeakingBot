@@ -1,2 +1,2 @@
 # SpeakingBot
-Testing google API
+Testing telebot & pyttsx3
